@@ -1,4 +1,4 @@
-require "textpants/version"
+require 'textpants/version'
 
 module Textpants
   # Your code goes here...
